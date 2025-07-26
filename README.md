@@ -8,3 +8,9 @@ On March 28th, 2017 [congress passed a law](https://www.govtrack.us/congress/vot
 
 **NOTE**: Advertisers don't give you what you want. They manipulate you into wanting what they have.
 
+
+## Credits
+
+Original Developer - https://x.com/slifty
+
+Reverse Engineered - LeakForge
